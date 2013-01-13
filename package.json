@@ -1,8 +1,8 @@
 {
   "author": "Alex Robson <alex@sharplearningcurve.com> (http://sharplearningcurve.com)",
   "name": "anvil.extension",
-  "description": "An anvil core plugin that provides command-line extension support",
-  "version": "0.1.0",
+  "description": "A core anvil component that provides command-line extension support",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/anviljs/anvil.extension.git"
